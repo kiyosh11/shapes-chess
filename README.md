@@ -10,7 +10,7 @@ a minimalist chess bot powered by the shapesinc api. plays legal moves, talks tr
 
 ## demo
 
-coming soon (or drop a gif here if you’ve got one)
+coming soon or never
 
 ## setup
 
